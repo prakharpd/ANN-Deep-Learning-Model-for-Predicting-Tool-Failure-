@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1fwhyO8fPwu3lL07QUZwdtgLZCEjCN42O
 
 # Deep Learning Model
-# All copyrights belongs to © Prakhar Dwivedi, Rishab Kumar, Sagar Chandrekar, Madhav Krishna Vakka
-
+# All copyrights belongs to © Prakhar Dwivedi
 ### Importing the libraries
 """
 
